@@ -7,16 +7,13 @@
     Especializado em integrar processos de negócio de ponta a ponta.
   </p>
 
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:ednan.iajundiai@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="LINK_DO_SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/ednan-ferreira">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="LINK_DO_SEU_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfólio-2ea44f?style=for-the-badge&logo=leetcodes&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://wa.me/SEU_NUMERO">
+   <a href="https://wa.me5511996706131">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 
