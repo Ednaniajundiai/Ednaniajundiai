@@ -1,5 +1,3 @@
-# Ednan | Desenvolvedor Full Stack & Especialista em Automações
-
 Desenvolvedor de software com **sistemas em produção** atendendo clientes reais. Especializado em **Python/FastAPI**, **React** e **automações com N8N** para integrar processos de negócio de ponta a ponta.
 
 Brasil | Disponível para PJ e Freelance
