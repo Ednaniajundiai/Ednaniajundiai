@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Banner+Developer+Fullstack" alt="Banner Developer" width="100%" />
-</div>
-
-<div align="center">
-  
   # Desenvolvedor Full Stack
   
   ### Python | React | N8N | Automação | Soluções de Negócio
