@@ -75,6 +75,5 @@ Estou aberto para contratos **PJ** e projetos **Freelance**. Posso ajudar seu ne
 * ⚙️ **APIs e Backends:** Desenvolvimento robusto com Python e FastAPI.
 * 🌐 **Sistemas Web Completos:** Do banco de dados à interface com React.
 * 🔄 **Integrações:** Conexão entre CRMs, Google Workspace e APIs externas via N8N.
-* 🐳 **Consultoria DevOps:** Configuração de ambientes com Docker e CI/CD.
 
 ---
