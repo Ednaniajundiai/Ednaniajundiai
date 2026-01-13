@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 Sobre Mim (The Builder Persona)
+##  Sobre Mim
 
 Sou um Desenvolvedor Full Stack focado na construção de soluções que funcionam no mundo real. Não entrego apenas código; crio ecossistemas que reduzem trabalho manual e otimizam operações. Minha expertise transita desde o desenvolvimento de APIs robustas com **Python/FastAPI**, interfaces modernas com **React**, até automações complexas de processos via **N8N**.
 
