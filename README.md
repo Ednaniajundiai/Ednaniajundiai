@@ -23,7 +23,7 @@
 
 ##  Sobre Mim
 
-Sou um Desenvolvedor Full Stack focado na construção de soluções que funcionam no mundo real. Não entrego apenas código; crio ecossistemas que reduzem trabalho manual e otimizam operações. Minha expertise transita desde o desenvolvimento de APIs robustas com **Python/FastAPI**, interfaces modernas com **React**, até automações complexas de processos via **N8N**.
+Engenheiro de Software focado na construção de soluções que funcionam no mundo real. Não entrego apenas código; crio ecossistemas que reduzem trabalho manual e otimizam operações. Minha expertise transita desde o desenvolvimento de APIs robustas com **Python/FastAPI**, interfaces modernas com **React**, até automações de processos via **N8N**.
 
 * 🛠 **Minha Abordagem:** Atuo com foco na entrega completa (Backend, Frontend e Deploy). Utilizo arquitetura de microserviços e containers para garantir que o software seja escalável e fácil de manter.
 * 💡 **Impacto Real:** Meus projetos atuais incluem bots de atendimento com milhares de interações e sistemas de gestão LGPD-compliant. Valido na prática que a tecnologia bem aplicada gera retorno mensurável.
