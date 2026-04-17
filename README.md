@@ -75,15 +75,7 @@ Sistema de check-in anônimo para professores da rede pública paulista, baseado
 
 ---
 
-### 🔧 Projetos de Clientes (B2B)
 
-Sistemas desenvolvidos em regime freelance para clientes reais. Repositórios com dados sensíveis removidos/anonimizados.
-
-| Projeto | Stack | Destaque |
-|---|---|---|
-| Sistema de automação com LLM | FastAPI · LangChain · PostgreSQL · n8n | Pipeline de triagem de dados com agente autônomo |
-| Integração ERP ↔ WhatsApp | FastAPI · Z-API · Redis · Webhooks | Notificações e confirmações em tempo real com fila assíncrona |
-| Plataforma com pagamentos | FastAPI · Stripe · PostgreSQL · React | Fluxo completo de assinatura com webhook de eventos |
 
 ---
 
