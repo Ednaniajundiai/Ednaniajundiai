@@ -1,54 +1,104 @@
 # Ednan Ferreira
-## Full Stack Developer
+### Backend Engineer · Python · FastAPI · LangChain · AI Agents
 
-Desenvolvedor focado em Python, React e automação de processos. Experiência em desenvolvimento de APIs, arquitetura de microserviços, integração de sistemas e deploy em containers.
-
-Atuo no ciclo completo de desenvolvimento, do backend com FastAPI à interfaces com React e fluxos de dados via N8N.
-
-[Gmail](mailto:ednan.iajundiai@gmail.com) • [LinkedIn](https://www.linkedin.com/in/ednan-ferreira) • [WhatsApp](https://wa.me/5511996706131)
-
----
-
-## Stack Tecnológica
-
-### Backend & Banco de Dados
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-### DevOps & Automação
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-FF6584?style=flat-square&logo=n8n&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ednan--ferreira-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ednan-ferreira)
+[![Gmail](https://img.shields.io/badge/Email-ednanferreira@gmail.com-D14836?style=flat&logo=gmail)](mailto:ednanferreira@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Jundiaí%2C%20SP%2C%20Brasil-228B22?style=flat&logo=googlemaps)]()
+[![Open to Work](https://img.shields.io/badge/Disponível-Freelance%20%7C%20PJ%20%7C%20CLT-FFB300?style=flat)]()
 
 ---
 
-## Projetos Recentes
+## Sobre mim
 
-### Bot WhatsApp & Chatwoot
-Automação de atendimento e funil de vendas.
-* **Stack:** Python, FastAPI, Redis.
-* **Detalhes:** Implementação de máquina de estados para controle de fluxo, handover para atendimento humano e gerenciamento de filas de mensagens com Redis.
+Engenheiro de Software com background em Engenharia Elétrica e mais de 10 anos resolvendo problemas complexos em grandes corporações (Klabin, EMSUR). Hoje aplico essa visão analítica na construção de **sistemas backend robustos e soluções de IA generativa em produção**.
 
-### Sistema de Gestão LGPD
-Workflow automatizado para coleta e processamento de dados sensíveis (Termos de saúde/PAR-Q).
-* **Stack:** N8N, Python, Google Sheets.
-* **Detalhes:** Geração automática de PDFs com validade jurídica e integração via Webhooks com CRM externo.
-
-### Portal Institucional
-Painel administrativo web responsivo.
-* **Stack:** React, TypeScript, Docker, Nginx.
-* **Detalhes:** Autenticação via OAuth 2.0 (Instagram API) e deploy containerizado.
+Meu foco está na interseção entre **Python/FastAPI** e **LLMs aplicados a negócio** — não como experimentos, mas como arquiteturas auditáveis, escaláveis e com impacto operacional real.
 
 ---
 
-### Serviços
-Disponível para projetos PJ e Freelance envolvendo desenvolvimento web, criação de APIs e automações com Z-API e Evolution API.
+## Stack
+
+**Backend & APIs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+
+**IA / LLMs**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2D8B?style=flat)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+**Dados & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+**Integrações**
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp%20API-25D366?style=flat&logo=whatsapp&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=flat&logo=google&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat)
+
+**Frontend (quando necessário)**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+---
+
+## Projetos em Destaque
+
+### 🔥 BurnoutProtect
+> **AI Tinkerers São Paulo × Google DeepMind Hackathon — Abril 2025**
+
+Sistema de check-in anônimo para professores da rede pública paulista, baseado no instrumento BAT (Burnout Assessment Tool) com conformidade NR-1 e alinhamento aos ODS da ONU (3, 4 e 8).
+
+**Arquitetura:** FastAPI · PostgreSQL · Redis · LangChain · Google Gemini · Docker  
+**Destaques técnicos:**
+- Motores de scoring **100% determinísticos** (BAT Score, Risk Score, Health Check Score, Behavior Need Score) — escolha deliberada para garantir auditabilidade em contexto regulatório
+- LLM (Gemini) restrito exclusivamente à **humanização de mensagens**, sem interferência no scoring
+- JWT auth nativo no FastAPI, sem dependências externas
+- Deploy containerizado em VPS via EasyPanel
+
+> [Ver repositório →](https://github.com/Ednaniajundiai)
+
+---
+
+### 🔧 Projetos de Clientes (B2B)
+
+Sistemas desenvolvidos em regime freelance para clientes reais. Repositórios com dados sensíveis removidos/anonimizados.
+
+| Projeto | Stack | Destaque |
+|---|---|---|
+| Sistema de automação com LLM | FastAPI · LangChain · PostgreSQL · n8n | Pipeline de triagem de dados com agente autônomo |
+| Integração ERP ↔ WhatsApp | FastAPI · Z-API · Redis · Webhooks | Notificações e confirmações em tempo real com fila assíncrona |
+| Plataforma com pagamentos | FastAPI · Stripe · PostgreSQL · React | Fluxo completo de assinatura com webhook de eventos |
+
+---
+
+## Formação
+
+- 🎓 **MBA em Engenharia de Software** — USP/Esalq *(em andamento, conclusão 2027)*
+- ⚡ **Engenharia Elétrica** — Universidade São Francisco *(2020)*
+
+---
+
+## Disponibilidade
+
+Aberto para:
+- **Freelance / PJ** — projetos de backend, APIs, automação e IA aplicada
+- **CLT** — remoto ou híbrido na região de Jundiaí/SP e adjacências
+- **Colaboração técnica** em projetos de impacto social ou govtech
+
+📩 **ednanferreira@gmail.com**
