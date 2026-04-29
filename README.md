@@ -1,3 +1,5 @@
+# Olá, eu sou o Ednan Ferreira 👋
+
 ### Desenvolvedor Backend Python | Engenharia de Software
 
 Sou um desenvolvedor focado em construir **soluções de software que resolvem problemas reais de negócio**. Unindo minha formação em Engenharia Elétrica com uma bagagem de mais de 10 anos no setor corporativo (Supply Chain), trago uma visão prática e voltada a resultados para o desenvolvimento de software.
@@ -26,7 +28,7 @@ Atualmente, foco na construção de APIs e microsserviços utilizando **Python**
 
 ## 📂 Projetos em Destaque
 
-### 🧠 [EarlySign] (https://github.com/Ednaniajundiai/EarlySign)
+### 🧠 [EarlySign](https://github.com/Ednaniajundiai/EarlySign)
 **O Problema:** Identificação tardia de casos de burnout e estresse ocupacional em ambientes corporativos.
 **A Solução:** Uma plataforma de intervenção proativa que rastreia tendências de saúde mental ao longo do tempo. Atua como um sensor preventivo (pré-BAT), transformando dados em insights para micro-ações de bem-estar.
 * *Destaque Técnico:* Arquitetura focada em conformidade rigorosa com a LGPD, garantindo anonimato e segurança de dados sensíveis.
