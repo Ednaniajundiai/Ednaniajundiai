@@ -1,5 +1,3 @@
-# Olá, eu sou o Ednan Ferreira 👋
-
 ### Desenvolvedor Backend Python | Engenharia de Software
 
 Sou um desenvolvedor focado em construir **soluções de software que resolvem problemas reais de negócio**. Unindo minha formação em Engenharia Elétrica com uma bagagem de mais de 10 anos no setor corporativo (Supply Chain), trago uma visão prática e voltada a resultados para o desenvolvimento de software.
