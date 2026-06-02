@@ -74,5 +74,5 @@ CRM financeiro com lógica de parcelas e saldo calculado em runtime, focado em c
 ## 📫 Contato
 
 - 📍 Jundiaí, SP — Remoto · Híbrido
-- 📧 ednanferreira@gmail.com
-- 💼 [linkedin.com/in/ednanferreira](https://www.linkedin.com/in/ednanferreira)
+- 📧 ednan.iajundiai@gmail.com
+- 💼 [linkedin.com/in/ednanferreira](https://www.linkedin.com/in/ednan-ferreira)
