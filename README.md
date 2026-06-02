@@ -1,54 +1,78 @@
-### Desenvolvedor Backend Python | Engenharia de Software
+# Ednan Ferreira da Silva
 
-Sou um desenvolvedor focado em construir **soluções de software que resolvem problemas reais de negócio**. Unindo minha formação em Engenharia Elétrica com uma bagagem de mais de 10 anos no setor corporativo (Supply Chain), trago uma visão prática e voltada a resultados para o desenvolvimento de software.
+### Desenvolvedor Backend Python · AI-Assisted Development & SDD · APIs e Microsserviços
 
-Atualmente, foco na construção de APIs e microsserviços utilizando **Python**, buscando sempre o equilíbrio entre funcionalidade técnica e impacto no mundo real.
+Sou Desenvolvedor Backend Python com atuação full-cycle: APIs, microsserviços, integrações e sistemas de IA generativa em produção. Construo soluções com **FastAPI, PostgreSQL, Redis e Docker**, com frontend **React/Next.js**, orquestração de agentes com **LangGraph e LangChain**, e integrações com APIs externas e webhooks.
 
----
+Adoto **SDD (Spec Driven Development)** como metodologia central — specs estruturadas antes do código, geração assistida por IA (Cursor, Claude Code) e validação via pytest — garantindo rastreabilidade e qualidade no ciclo completo.
 
-## 🚀 Meu Diferencial
-
-* **Visão de Negócio:** Minha experiência prévia em grandes corporações me permite entender processos complexos e o valor da eficiência operacional em um projeto.
-* **Foco em Soluções Reais:** Desenvolvo sistemas pensando em quem vai usar, priorizando a resolução de problemas como saúde ocupacional, automação de processos e gestão financeira.
-* **Desenvolvimento Full-Cycle:** Atuo desde a modelagem de dados e construção do backend até o deploy em containers e interfaces em React.
+Minha trajetória de mais de 10 anos em Supply Chain em ambientes corporativos de alta complexidade me diferencia: entendo o problema de negócio antes de escrever a primeira linha de código — e construo sistemas que refletem isso.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Técnica
 
-- **Backend:** Python (FastAPI, SQLAlchemy, Pydantic) e Node.js.
-- **Frontend:** React, Next.js e TypeScript.
-- **Banco de Dados & Cache:** PostgreSQL e Redis.
-- **Infraestrutura:** Docker, Nginx e GitHub Actions.
-- **Ecossistema:** Experiência com integrações de APIs (WhatsApp/Z-API, Stripe, Google) e automações com LLMs.
+**Backend**
+`Python` `FastAPI` `SQLAlchemy` `Pydantic` `Node.js`
+
+**Frontend**
+`React` `Next.js` `TypeScript` `Tailwind CSS`
+
+**Banco de Dados & Cache**
+`PostgreSQL` `Redis` `pgvector`
+
+**IA Generativa**
+`LangGraph` `LangChain` `Google ADK` `Vertex AI` `RAG` `MCP`
+
+**Infraestrutura**
+`Docker` `Nginx` `CI/CD` `GitHub Actions` `Cloud Run` `AWS`
+
+**Metodologia & Ferramentas**
+`SDD` `Clean Architecture` `Pytest` `Cursor` `Claude Code`
+
+---
+
+## 🚀 Diferenciais
+
+**Spec Driven Development (SDD)**
+Desenvolvo orientado a especificações: specs antes do código, AI Coding com Cursor e Claude Code, e cobertura estruturada via pytest. Desenvolvimento suportado por IA com rastreabilidade e controle de qualidade.
+
+**Visão de Negócio**
+Mais de 10 anos em Supply Chain em grandes corporações. Entendo processos complexos, impacto financeiro e eficiência operacional — o que me permite construir sistemas que resolvem problemas reais, não apenas requisitos técnicos.
+
+**Entrega Full-Cycle**
+Da modelagem de dados e APIs backend ao frontend React/Next.js, pipelines CI/CD e deploy em produção com Docker e Nginx — sem dependência de time externo.
 
 ---
 
 ## 📂 Projetos em Destaque
 
-### 🧠 [EarlySign](https://github.com/Ednaniajundiai/EarlySign)
-**O Problema:** Identificação tardia de casos de burnout e estresse ocupacional em ambientes corporativos.
-**A Solução:** Uma plataforma de intervenção proativa que rastreia tendências de saúde mental ao longo do tempo. Atua como um sensor preventivo (pré-BAT), transformando dados em insights para micro-ações de bem-estar.
-* *Destaque Técnico:* Arquitetura focada em conformidade rigorosa com a LGPD, garantindo anonimato e segurança de dados sensíveis.
+### 🧠 [NR-01 / Soma](https://github.com/Ednaniajundiai)
+Plataforma SaaS multi-tenant para gestão de riscos psicossociais em conformidade com a NR-01 (COPSOQ II).
+Clean Architecture modular com motor psicométrico em Python, regras de negócio externalizadas em YAML, autenticação JWT RS256, RBAC e isolamento multi-tenant via Row Level Security no PostgreSQL.
+`FastAPI` `PostgreSQL` `RLS` `Clean Architecture` `LGPD`
 
-### 🏥 [Clinic Leads CRM](https://github.com/Ednaniajundiai/clinic-leads-crm)
-Sistema desenvolvido para otimizar o atendimento de clínicas, utilizando um bot de WhatsApp com máquina de estados persistida em Redis para garantir a continuidade do fluxo de atendimento.
+### 🤖 [Sistema Multiagente — Clinic Leads](https://github.com/Ednaniajundiai)
+Arquitetura de sistema multiagente com LangGraph para qualificação e atendimento de leads em clínicas de saúde.
+Orquestração dinâmica de agentes especialistas, RAG com pgvector e integração WhatsApp via webhook.
+`LangGraph` `LangChain` `RAG` `pgvector` `WhatsApp/Z-API`
 
 ### 💰 [RotaVenda](https://github.com/Ednaniajundiai/RotaVenda-Portfolio)
-CRM financeiro que gerencia parcelas e saldos em tempo real, focado em dar clareza operacional para fluxos de vendas complexos.
+CRM financeiro com lógica de parcelas e saldo calculado em runtime, focado em clareza operacional para fluxos de vendas complexos.
+`FastAPI` `PostgreSQL` `Redis`
 
 ---
 
-## 🎓 Formação e Evolução
+## 🎓 Formação
 
-- **MBA em Engenharia de Software** – USP/ESALQ (em andamento).
-- **Bacharelado em Engenharia Elétrica** – USF.
-- **Inglês:** Nível Avançado.
+- **MBA em Engenharia de Software** — USP/ESALQ *(em andamento, 2025–2027)*
+- **MBA em Supply Chain** — USF *(2023–2024)*
+- **Bacharelado em Engenharia Elétrica** — USF *(2015–2020)*
 
 ---
 
 ## 📫 Contato
 
-- **Localização:** Jundiaí/SP.
-- **Email:** ednanferreira@gmail.com.
-- **LinkedIn:** [linkedin.com/in/ednanferreira](https://www.linkedin.com/in/ednanferreira)
+- 📍 Jundiaí, SP — Remoto · Híbrido
+- 📧 ednanferreira@gmail.com
+- 💼 [linkedin.com/in/ednanferreira](https://www.linkedin.com/in/ednanferreira)
