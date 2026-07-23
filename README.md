@@ -1,65 +1,64 @@
 # Ednan Ferreira da Silva
 
-### Desenvolvedor Backend Python · AI-Assisted Development & SDD · APIs e Microsserviços
+### Engenheiro de Software Backend · Python · FastAPI
+**Sistemas com LLMs e agentes conversacionais em produção**
 
-Sou Desenvolvedor Backend Python com atuação full-cycle: APIs, microsserviços, integrações e sistemas de IA generativa em produção. Construo soluções com **FastAPI, PostgreSQL, Redis e Docker**, com frontend **React/Next.js**, orquestração de agentes com **LangGraph e LangChain**, e integrações com APIs externas e webhooks.
+Projeto e opero sistemas backend em produção de ponta a ponta — da arquitetura à
+sustentação. **FastAPI, PostgreSQL, Redis e Docker**, integrações via API e webhooks,
+e IA generativa aplicada com previsibilidade de arquitetura: LLM integrado a fluxo
+de negócio, com saída controlada e auditável — não geração livre.
 
-Adoto **SDD (Spec Driven Development)** como metodologia central — specs estruturadas antes do código, geração assistida por IA (Cursor, Claude Code) e validação via pytest — garantindo rastreabilidade e qualidade no ciclo completo.
+Trabalho orientado a especificação (**SDD — Spec Driven Development**): spec antes
+do código, validação via pytest e code review.
 
-Minha trajetória de mais de 10 anos em Supply Chain em ambientes corporativos de alta complexidade me diferencia: entendo o problema de negócio antes de escrever a primeira linha de código — e construo sistemas que refletem isso.
-
----
-
-## 🛠️ Stack Técnica
-
-**Backend**
-`Python` `FastAPI` `SQLAlchemy` `Pydantic` `Node.js`
-
-**Frontend**
-`React` `Next.js` `TypeScript` `Tailwind CSS`
-
-**Banco de Dados & Cache**
-`PostgreSQL` `Redis` `pgvector`
-
-**IA Generativa**
-`LangGraph` `LangChain` `Google ADK` `Vertex AI` `RAG` `MCP`
-
-**Infraestrutura**
-`Docker` `Nginx` `CI/CD` `GitHub Actions` `Cloud Run` `AWS`
-
-**Metodologia & Ferramentas**
-`SDD` `Clean Architecture` `Pytest` `Cursor` `Claude Code`
+Mais de 10 anos em Supply Chain em ambiente corporativo antes da engenharia de
+software — leio a regra de negócio antes de escrever a primeira linha.
 
 ---
 
-## 🚀 Diferenciais
+## 🛠️ Stack
 
-**Spec Driven Development (SDD)**
-Desenvolvo orientado a especificações: specs antes do código, AI Coding com Cursor e Claude Code, e cobertura estruturada via pytest. Desenvolvimento suportado por IA com rastreabilidade e controle de qualidade.
-
-**Visão de Negócio**
-Mais de 10 anos em Supply Chain em grandes corporações. Entendo processos complexos, impacto financeiro e eficiência operacional — o que me permite construir sistemas que resolvem problemas reais, não apenas requisitos técnicos.
-
-**Entrega Full-Cycle**
-Da modelagem de dados e APIs backend ao frontend React/Next.js, pipelines CI/CD e deploy em produção com Docker e Nginx — sem dependência de time externo.
+**Backend** `Python` `FastAPI` `SQLAlchemy` `Pydantic` `Node.js`
+**Dados & Cache** `PostgreSQL` `Redis` `pgvector` `Row Level Security`
+**IA Generativa** `LangGraph` `LangChain` `RAG` `MCP` `Vertex AI`
+**Integrações** `REST/JSON` `Webhooks` `WhatsApp API` `Meta Graph API` `OAuth2 / JWT`
+**Infra** `Docker` `Docker Swarm` `Nginx` `CI/CD` `GitHub Actions` `Cloud Run`
+**Qualidade** `Pytest` `Clean Architecture` `SDD`
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Projetos em Produção
 
-### 🧠 [NR-01 / Soma](https://github.com/Ednaniajundiai)
-Plataforma SaaS multi-tenant para gestão de riscos psicossociais em conformidade com a NR-01 (COPSOQ II).
-Clean Architecture modular com motor psicométrico em Python, regras de negócio externalizadas em YAML, autenticação JWT RS256, RBAC e isolamento multi-tenant via Row Level Security no PostgreSQL.
+> Os sistemas abaixo estão em operação com clientes reais, incluindo dados
+> sensíveis sob LGPD. Por isso os repositórios são privados — o que publico aqui
+> é a documentação de arquitetura. Código disponível para apresentação em call
+> ou acesso de leitura mediante solicitação.
+
+### 🧠 SomaVital — Plataforma NR-01 *(privado)*
+SaaS multi-tenant para gestão de risco psicossocial (NR-01 / COPSOQ II).
+Motor de scoring **determinístico** em Python, com regras externalizadas em YAML;
+LLM restrito à borda auditável para geração de saídas. Isolamento multi-tenant via
+**Row Level Security** no PostgreSQL, RBAC e JWT RS256.
+Selecionado entre 700+ inscritos no AI for Social Impact Hackathon (Google DeepMind)
+e apresentado no meetup do AI Tinkerers SP.
 `FastAPI` `PostgreSQL` `RLS` `Clean Architecture` `LGPD`
+📄 [Documento de arquitetura](LINK)
 
-### 🤖 [Sistema Multiagente — Clinic Leads](https://github.com/Ednaniajundiai)
-Arquitetura de sistema multiagente com LangGraph para qualificação e atendimento de leads em clínicas de saúde.
-Orquestração dinâmica de agentes especialistas, RAG com pgvector e integração WhatsApp via webhook.
-`LangGraph` `LangChain` `RAG` `pgvector` `WhatsApp/Z-API`
+### 🤖 Atendimento automatizado via WhatsApp — setor de saúde *(privado)*
+Bot em produção há mais de um ano, com dado sensível de paciente sob LGPD.
+Máquina de estados própria em Python, estado externalizado em Redis com TTL,
+ingestão de webhook com ACK imediato e processamento assíncrono, idempotência por
+ID de mensagem, retry com backoff e handoff para humano. Roteamento distinto entre
+paciente ativo e lead. Iniciado em Botpress/n8n e reescrito em Python.
+`Python` `Redis` `Webhooks` `WhatsApp API` `Docker`
+📄 [Documento de arquitetura](LINK)
 
-### 💰 [RotaVenda](https://github.com/Ednaniajundiai/RotaVenda-Portfolio)
-CRM financeiro com lógica de parcelas e saldo calculado em runtime, focado em clareza operacional para fluxos de vendas complexos.
+### 💰 RotaVenda — CRM financeiro *(privado)*
+CRM para rotas de venda a prazo, com lógica de parcelas e saldo calculado em runtime.
+Inclui pipeline de digitalização de registro manuscrito com LLM e validação
+determinística por schema — o que não passa vai para revisão humana.
 `FastAPI` `PostgreSQL` `Redis`
+📄 [Vitrine pública](https://github.com/Ednaniajundiai/RotaVenda-Portfolio)
 
 ---
 
@@ -73,6 +72,9 @@ CRM financeiro com lógica de parcelas e saldo calculado em runtime, focado em c
 
 ## 📫 Contato
 
-- 📍 Jundiaí, SP — Remoto · Híbrido
-- 📧 ednan.iajundiai@gmail.com
-- 💼 [linkedin.com/in/ednanferreira](https://www.linkedin.com/in/ednan-ferreira)
+📍 Jundiaí, SP — Híbrido · Remoto
+📧 ednanferreira@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/ednan-ferreira)
+
+<sub>Metodologia: SDD com specs versionadas, apoio de ferramentas de AI coding
+e validação via pytest.</sub>
