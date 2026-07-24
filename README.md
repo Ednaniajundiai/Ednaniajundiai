@@ -42,7 +42,7 @@ LLM restrito à borda auditável para geração de saídas. Isolamento multi-ten
 Selecionado entre 700+ inscritos no AI for Social Impact Hackathon (Google DeepMind)
 e apresentado no meetup do AI Tinkerers SP.
 `FastAPI` `PostgreSQL` `RLS` `Clean Architecture` `LGPD`
-📄 [Documento de arquitetura](LINK)
+📄 [Documento de arquitetura](https://github.com/Ednaniajundiai/soma-vital)
 
 ### 🤖 Atendimento automatizado via WhatsApp — setor de saúde *(privado)*
 Bot em produção há mais de um ano, com dado sensível de paciente sob LGPD.
@@ -51,7 +51,7 @@ ingestão de webhook com ACK imediato e processamento assíncrono, idempotência
 ID de mensagem, retry com backoff e handoff para humano. Roteamento distinto entre
 paciente ativo e lead. Iniciado em Botpress/n8n e reescrito em Python.
 `Python` `Redis` `Webhooks` `WhatsApp API` `Docker`
-📄 [Documento de arquitetura]([LINK](https://github.com/Ednaniajundiai/clinic-leads-crm))
+📄 [Documento de arquitetura](https://github.com/Ednaniajundiai/clinic-leads-crm)
 
 ### 💰 RotaVenda — CRM financeiro *(privado)*
 CRM para rotas de venda a prazo, com lógica de parcelas e saldo calculado em runtime.
@@ -70,11 +70,3 @@ determinística por schema — o que não passa vai para revisão humana.
 
 ---
 
-## 📫 Contato
-
-📍 Jundiaí, SP — Híbrido · Remoto
-📧 ednanferreira@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/ednan-ferreira)
-
-<sub>Metodologia: SDD com specs versionadas, apoio de ferramentas de AI coding
-e validação via pytest.</sub>
