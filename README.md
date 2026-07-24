@@ -51,7 +51,7 @@ ingestão de webhook com ACK imediato e processamento assíncrono, idempotência
 ID de mensagem, retry com backoff e handoff para humano. Roteamento distinto entre
 paciente ativo e lead. Iniciado em Botpress/n8n e reescrito em Python.
 `Python` `Redis` `Webhooks` `WhatsApp API` `Docker`
-📄 [Documento de arquitetura](LINK)
+📄 [Documento de arquitetura]([LINK](https://github.com/Ednaniajundiai/clinic-leads-crm))
 
 ### 💰 RotaVenda — CRM financeiro *(privado)*
 CRM para rotas de venda a prazo, com lógica de parcelas e saldo calculado em runtime.
